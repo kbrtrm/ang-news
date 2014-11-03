@@ -1,0 +1,10 @@
+{
+  "firebase": "shining-inferno-517",
+  "public": "dist",
+  "rules": "security-rules.json",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
